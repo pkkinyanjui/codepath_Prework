@@ -25,7 +25,7 @@ Here's a walkthrough of implemented features:
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,6 +34,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+- Figuring out how to run emulator with an AMD card
+- Connecting Github to Android Studio 
+- Ensuring VCS was working as intended
+
 
 ## License
 
